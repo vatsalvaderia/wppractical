@@ -18,3 +18,7 @@
 
 2020-10-29T19:27:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wppractical\wp-includes\wp-db.php on line 2024
 
+2020-10-29T20:03:03+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\wppractical\wp-includes\wp-db.php on line 2024
+
+2020-10-29T20:10:27+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\wppractical\wp-includes\wp-db.php on line 2024
+
