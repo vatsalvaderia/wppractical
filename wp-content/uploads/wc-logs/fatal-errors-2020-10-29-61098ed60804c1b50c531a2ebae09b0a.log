@@ -1,0 +1,20 @@
+2020-10-29T13:11:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wppractical\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-report-top-sellers-v1-controller.php on line 13
+
+2020-10-29T13:11:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wppractical\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-report-top-sellers-v1-controller.php on line 13
+
+2020-10-29T13:11:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wppractical\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-product-shipping-classes-v2-controller.php on line 28
+
+2020-10-29T13:11:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wppractical\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-shipping-zones-controller-base.php on line 11
+
+2020-10-29T13:11:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wppractical\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-report-coupons-totals-controller.php on line 144
+
+2020-10-29T14:32:49+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wppractical\wp-content\themes\open-shop\functions.php on line 341
+
+2020-10-29T18:35:08+00:00 CRITICAL syntax error, unexpected 'products”' (T_STRING) in C:\xampp\htdocs\wppractical\wp-content\themes\open-shop\functions.php on line 334
+
+2020-10-29T18:35:39+00:00 CRITICAL syntax error, unexpected 'products”' (T_STRING) in C:\xampp\htdocs\wppractical\wp-content\themes\open-shop\functions.php on line 334
+
+2020-10-29T18:56:47+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in C:\xampp\htdocs\wppractical\wp-content\themes\open-shop\functions.php on line 337
+
+2020-10-29T19:27:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wppractical\wp-includes\wp-db.php on line 2024
+
